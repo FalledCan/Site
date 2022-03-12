@@ -37,3 +37,18 @@ footer{
     margin-top: 60px;
     height: 100px;
 }
+#home_hazo{
+    margin: 40px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.box {
+    /* ▼ FlexBoxの定義 */
+    display        : flex;                 /* FlexBox定義         */
+    justify-content: center;               /* 揃えの定義          */
+    flex-wrap      : wrap;                /* 折り返し定義        */
+  }
+
+  
+  
+
