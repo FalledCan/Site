@@ -45,6 +45,9 @@ footer{
     margin-left: 5%;
     margin-right: 5%;
 }
+#grdiv{
+ background-color: #FFFFFF;
+}
 .box {
     /* ▼ FlexBoxの定義 */
     display        : flex;                 /* FlexBox定義         */
